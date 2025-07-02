@@ -1,0 +1,32 @@
+{
+  "originUrl": "https://chase-rally-78014747.figma.site",
+  "lastCrawled": "https://chase-rally-78014747.figma.site/",
+  "urls": [
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/page",
+      "source": "SITEMAPS",
+      "targetPath": "/page",
+      "id": "8a24a1a5e7a366e3323a35f03d7a748ea22d299c"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
