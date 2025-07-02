@@ -1,0 +1,185 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://chase-rally-78014747.figma.site/",
+          "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+          "uuid": "7ae14298-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chase-rally-78014747.figma.site/page",
+          "urlHash": "8a24a1a5e7a366e3323a35f03d7a748ea22d299c",
+          "uuid": "8a24a1a5-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://chase-rally-78014747.figma.site/",
+          "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+          "uuid": "7ae14298-13-7fe1c5cd470dccfd1cd49b6aaea8bfc52fe8134c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[10]"
+        },
+        {
+          "url": "https://chase-rally-78014747.figma.site/page",
+          "urlHash": "8a24a1a5e7a366e3323a35f03d7a748ea22d299c",
+          "uuid": "8a24a1a5-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Cards",
+      "cluster": 1,
+      "source": "Cards",
+      "target": "Cards (cards1)",
+      "key": "cards1",
+      "instances": [
+        {
+          "url": "https://chase-rally-78014747.figma.site/",
+          "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+          "uuid": "7ae14298-06-690d5deef7d2ca361922fe201375694aca4bc0cf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://chase-rally-78014747.figma.site/",
+          "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+          "uuid": "7ae14298-08-d6c5015c4a76aba52b7499423f2194d6a387ad93",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[6]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://chase-rally-78014747.figma.site/",
+          "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+          "uuid": "7ae14298-10-b55e707f7011ccccdcdd3dd7914f3c08002ad2b9",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://chase-rally-78014747.figma.site/",
+          "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+          "uuid": "7ae14298-13-7fe1c5cd470dccfd1cd49b6aaea8bfc52fe8134c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://chase-rally-78014747.figma.site/",
+          "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+          "uuid": "7ae14298-04-3fad25370b5e8d01aee9d300f6f0a7492e8c39ed",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[2]"
+        },
+        {
+          "url": "https://chase-rally-78014747.figma.site/page",
+          "urlHash": "8a24a1a5e7a366e3323a35f03d7a748ea22d299c",
+          "uuid": "8a24a1a5-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-01-f20253889eaecacaae8b60267677977ef56e656a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[3]/div[1]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-03-57fc10fbb94114c4f99f56281b102b8e70cca36a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-05-3ce5e7c87c22b0ce07e18a02f45ffe1ec342e4a5",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-07-8766fe325e04b92eaa33004b8dfdcf8ec6a4fbec",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-09-fb3312de6385829c96dd1d313ee75b99e4c6da61",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-11-66957515786578ecd9b937b79e08c2dfa976fd79",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/",
+      "urlHash": "7ae14298a1e406b51f9c3e2180553e3d91a4ff6f",
+      "uuid": "7ae14298-12-6ea54acaf365e06896d60dc5c40a9262bae4c2db",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://chase-rally-78014747.figma.site/page",
+      "urlHash": "8a24a1a5e7a366e3323a35f03d7a748ea22d299c",
+      "uuid": "8a24a1a5-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+    }
+  ]
+}
